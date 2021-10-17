@@ -22,8 +22,16 @@
  border-radius: 8px;
 }
 
+.send{
+  background-color: rgba(29, 182, 24, 0.897);
+}
+
+.send:hover{
+  background-color: rgba(73, 212, 69, 0.897);
+}
 
 .background-footer{
  background: rgb(2,0,36);
  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(32, 31, 31, 0.959) 35%, rgba(37, 37, 37, 0.945) 100%);
 }
+
