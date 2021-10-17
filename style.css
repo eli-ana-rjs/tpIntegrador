@@ -18,6 +18,12 @@
 .format-span{
  padding-left: 5px;
  padding-right: 5px;
-padding-bottom: 3px ;
+ padding-bottom: 3px ;
  border-radius: 8px;
+}
+
+
+.background-footer{
+ background: rgb(2,0,36);
+ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(32, 31, 31, 0.959) 35%, rgba(37, 37, 37, 0.945) 100%);
 }
